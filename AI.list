@@ -4,6 +4,7 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,fsm
+DOMAIN-KEYWORD,greasyfork
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
