@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,greasyfork
 DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,aistudio
 DOMAIN-KEYWORD,ai
+DOMAIN-KEYWORD,gemini
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
@@ -29,3 +30,8 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,googleapis.com
